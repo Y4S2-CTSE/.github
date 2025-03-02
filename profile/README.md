@@ -26,6 +26,8 @@ We explore the latest advancements in software engineering, work on innovative p
 * [Software Engineering Trends: IEEE Software](https://www.computer.org/csdl/magazine/so)
 
 ---
+### 📑 Documentation
+* [Project Documentation (PDF)](/docs/Assignment 1 - Cloud Computing Assignment.pdf)
 
 <div align="center">
 
