@@ -9,6 +9,7 @@ This organization is dedicated to the Current Trends in Software Engineering (CT
 * Baddewithana P.
 * Niyangoda S.N.A.H.H.
 * Dewinda A.G.T.
+* Sirisena B.G.K.D.
 
 ### 📌 What We Do
 
