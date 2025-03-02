@@ -27,7 +27,7 @@ We explore the latest advancements in software engineering, work on innovative p
 
 ---
 ### 📑 Documentation
-* [Project Documentation (PDF)](/docs/Assignment 1 - Cloud Computing Assignment.pdf)
+* [Project Documentation (PDF)](/docs/Assignment-1-Cloud Computing-Assignment.pdf)
 
 <div align="center">
 
